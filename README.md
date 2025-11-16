@@ -1,3 +1,6 @@
+#Hii I'm Chinmayi Rudrappa Naik
+  ## A passionate developer in India
+
 # 💫 About Me:
 🔭 I’m currently pursuing Btech<br>👯 I’m looking to collaborate on software <br>🤝 I’m looking for help with interns<br>🌱 I’m currently learning coding languages<br>
 
