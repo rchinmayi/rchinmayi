@@ -1,4 +1,4 @@
-#Hii I'm Chinmayi Rudrappa Naik
+                                                                                         # Hi I'm Chinmayi Rudrappa Naik
   ## A passionate developer in India
 
 # 💫 About Me:
